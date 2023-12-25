@@ -1,4 +1,3 @@
-import React from 'react'
 import { Items } from './Items'
 const Display = () => {
   return (
