@@ -15,7 +15,6 @@ const Fetching = () => {
       )
     })
   }
-
   return (
     <center>
       <h1>Details of User</h1><br></br>
